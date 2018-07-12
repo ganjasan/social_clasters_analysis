@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="friends_count" type="long" />
+      <attribute id="1" title="checkins_count" type="long" />
+      <attribute id="2" title="bdate" type="string" />
+      <attribute id="3" title="domain" type="string" />
+      <attribute id="4" title="first_name" type="string" />
+      <attribute id="5" title="followers_count" type="double" />
+      <attribute id="6" title="has_mobile" type="double" />
+      <attribute id="7" title="last_name" type="string" />
+      <attribute id="8" title="nickname" type="string" />
+      <attribute id="9" title="sex" type="long" />
+      <attribute id="10" title="site" type="string" />
+      <attribute id="11" title="age" type="double" />
+      <attribute id="12" title="city_title" type="string" />
+      <attribute id="13" title="country_title" type="string" />
+      <attribute id="14" title="occupation_type" type="string" />
+      <attribute id="15" title="occupation_name" type="string" />
+      <attribute id="16" title="degree" type="long" />
+      <attribute id="17" title="betweenness_centrality" type="double" />
+      <attribute id="18" title="degree_centrality" type="double" />
+      <attribute id="19" title="closeness_centrality" type="double" />
+    </attributes>
+    <nodes>
+      <node id="32529" label="32529">
+        <attvalues>
+          <attvalue for="0" value="272" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="2.6" />
+          <attvalue for="3" value="mikhailove" />
+          <attvalue for="4" value="Roman" />
+          <attvalue for="5" value="197.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Mikhailove" />
+          <attvalue for="8" value="Mickey" />
+          <attvalue for="9" value="2" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="0.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="university" />
+          <attvalue for="15" value="СЗИУ РАНХиГС (бывш. СЗАГС)" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="0.01639344262295082" />
+          <attvalue for="19" value="0.029508196721311473" />
+        </attvalues>
+      </node>
+      <node id="235307496" label="235307496">
+        <attvalues>
+          <attvalue for="0" value="206" />
+          <attvalue for="1" value="141" />
+          <attvalue for="2" value="21.5.1980" />
+          <attvalue for="3" value="id235307496" />
+          <attvalue for="4" value="Dmitri" />
+          <attvalue for="5" value="12.0" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="Averin" />
+          <attvalue for="8" value="Dmitri Averin" />
+          <attvalue for="9" value="2" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="38.0" />
+          <attvalue for="12" value="Miami" />
+          <attvalue for="13" value="США" />
+          <attvalue for="14" value="" />
+          <attvalue for="15" value="" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="0.01639344262295082" />
+          <attvalue for="19" value="0.029508196721311473" />
+        </attvalues>
+      </node>
+      <node id="1213121" label="1213121">
+        <attvalues>
+          <attvalue for="0" value="323" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="21.6" />
+          <attvalue for="3" value="id1213121" />
+          <attvalue for="4" value="Катюша" />
+          <attvalue for="5" value="420.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Данилова" />
+          <attvalue for="8" value="Катюша Данилова" />
+          <attvalue for="9" value="1" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="0.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="work" />
+          <attvalue for="15" value="KWAKINN | Сеть БЕЛЬГИЙСКИХ КАФЕ | СПб" />
+          <attvalue for="16" value="3" />
+          <attvalue for="17" value="0.001639344262295082" />
+          <attvalue for="18" value="0.04918032786885246" />
+          <attvalue for="19" value="0.04918032786885246" />
+        </attvalues>
+      </node>
+      <node id="2304757" label="2304757">
+        <attvalues>
+          <attvalue for="0" value="533" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="13.11.1985" />
+          <attvalue for="3" value="mishin_jaroslav" />
+          <attvalue for="4" value="Ярослав" />
+          <attvalue for="5" value="211.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Мишин" />
+          <attvalue for="8" value="Ярослав Мишин" />
+          <attvalue for="9" value="2" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="33.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="university" />
+          <attvalue for="15" value="СПбГУВК" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="0.01639344262295082" />
+          <attvalue for="19" value="0.029508196721311473" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="16" source="32529" target="1213121" />
+      <edge id="11" source="235307496" target="1213121" />
+      <edge id="13" source="1213121" target="2304757" />
+    </edges>
+  </graph>
+</gexf>

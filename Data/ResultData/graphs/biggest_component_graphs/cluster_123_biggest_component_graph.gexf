@@ -1,0 +1,661 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="friends_count" type="long" />
+      <attribute id="1" title="checkins_count" type="long" />
+      <attribute id="2" title="bdate" type="string" />
+      <attribute id="3" title="domain" type="string" />
+      <attribute id="4" title="first_name" type="string" />
+      <attribute id="5" title="followers_count" type="double" />
+      <attribute id="6" title="has_mobile" type="double" />
+      <attribute id="7" title="last_name" type="string" />
+      <attribute id="8" title="nickname" type="string" />
+      <attribute id="9" title="sex" type="long" />
+      <attribute id="10" title="site" type="string" />
+      <attribute id="11" title="age" type="double" />
+      <attribute id="12" title="city_title" type="string" />
+      <attribute id="13" title="country_title" type="string" />
+      <attribute id="14" title="occupation_type" type="string" />
+      <attribute id="15" title="occupation_name" type="string" />
+      <attribute id="16" title="degree" type="long" />
+      <attribute id="17" title="betweenness_centrality" type="double" />
+      <attribute id="18" title="degree_centrality" type="double" />
+      <attribute id="19" title="closeness_centrality" type="double" />
+    </attributes>
+    <nodes>
+      <node id="350717" label="350717">
+        <attvalues>
+          <attvalue for="0" value="256" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1.4" />
+          <attvalue for="3" value="mariadudar" />
+          <attvalue for="4" value="Mari" />
+          <attvalue for="5" value="452.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Dudar" />
+          <attvalue for="8" value="Mari Dudar" />
+          <attvalue for="9" value="1" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="0.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="work" />
+          <attvalue for="15" value="??Фотограф Дудар Мария|Студия|Пленэр|Дети??" />
+          <attvalue for="16" value="3" />
+          <attvalue for="17" value="0.001113098787517392" />
+          <attvalue for="18" value="0.023076923076923078" />
+          <attvalue for="19" value="0.05987525987525988" />
+        </attvalues>
+      </node>
+      <node id="1320665" label="1320665">
+        <attvalues>
+          <attvalue for="0" value="1977" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="14.4.1976" />
+          <attvalue for="3" value="vlasov.ilya" />
+          <attvalue for="4" value="Илья" />
+          <attvalue for="5" value="410.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Власов" />
+          <attvalue for="8" value="Илья Власов" />
+          <attvalue for="9" value="2" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="42.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="work" />
+          <attvalue for="15" value="Бутик JOOP!" />
+          <attvalue for="16" value="6" />
+          <attvalue for="17" value="0.01077320612204333" />
+          <attvalue for="18" value="0.046153846153846156" />
+          <attvalue for="19" value="0.07912087912087912" />
+        </attvalues>
+      </node>
+      <node id="13513963" label="13513963">
+        <attvalues>
+          <attvalue for="0" value="233" />
+          <attvalue for="1" value="18" />
+          <attvalue for="2" value="27.8" />
+          <attvalue for="3" value="id13513963" />
+          <attvalue for="4" value="Виктория" />
+          <attvalue for="5" value="202.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Стебловская" />
+          <attvalue for="8" value="Виктория Стебловская" />
+          <attvalue for="9" value="1" />
+          <attvalue for="10" value="https://www.instagram.com/viktoria_steb/" />
+          <attvalue for="11" value="0.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="work" />
+          <attvalue for="15" value="РЕТРО ДИСКОТЕКА ПАПАНИН (ночной клуб, караоке)" />
+          <attvalue for="16" value="4" />
+          <attvalue for="17" value="0.0027827469687934808" />
+          <attvalue for="18" value="0.03076923076923077" />
+          <attvalue for="19" value="0.04923076923076923" />
+        </attvalues>
+      </node>
+      <node id="1288637" label="1288637">
+        <attvalues>
+          <attvalue for="0" value="651" />
+          <attvalue for="1" value="30" />
+          <attvalue for="2" value="14.6" />
+          <attvalue for="3" value="idanastaciakovalevskaya" />
+          <attvalue for="4" value="Анастасия" />
+          <attvalue for="5" value="260.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Ковалевская" />
+          <attvalue for="8" value="Анастасия Ковалевская" />
+          <attvalue for="9" value="1" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="0.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="work" />
+          <attvalue for="15" value="Музыкальная группа &quot;BEVERLY HILLS&quot;, певица СПб." />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="0.007692307692307693" />
+          <attvalue for="19" value="0.048689771766694846" />
+        </attvalues>
+      </node>
+      <node id="171292493" label="171292493">
+        <attvalues>
+          <attvalue for="0" value="1476" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="7.6.1992" />
+          <attvalue for="3" value="nmanyukova" />
+          <attvalue for="4" value="Настюша" />
+          <attvalue for="5" value="233.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Гарбузова" />
+          <attvalue for="8" value="Настюша Гарбузова" />
+          <attvalue for="9" value="1" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="26.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="university" />
+          <attvalue for="15" value="СПбГЭУ" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="0.007692307692307693" />
+          <attvalue for="19" value="0.0632967032967033" />
+        </attvalues>
+      </node>
+      <node id="191506200" label="191506200">
+        <attvalues>
+          <attvalue for="0" value="49" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="14.5.1986" />
+          <attvalue for="3" value="kotoffmr" />
+          <attvalue for="4" value="Кот" />
+          <attvalue for="5" value="43.0" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="Выкл" />
+          <attvalue for="8" value="Кот Выкл" />
+          <attvalue for="9" value="2" />
+          <attvalue for="10" value="www.vremeni.net" />
+          <attvalue for="11" value="32.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="work" />
+          <attvalue for="15" value="РА &quot;Платиновый Барс&quot;" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="0.007692307692307693" />
+          <attvalue for="19" value="0.04343891402714933" />
+        </attvalues>
+      </node>
+      <node id="38030921" label="38030921">
+        <attvalues>
+          <attvalue for="0" value="96" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="6.12.1991" />
+          <attvalue for="3" value="kharlamova_kate" />
+          <attvalue for="4" value="Екатерина" />
+          <attvalue for="5" value="421.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Харламова" />
+          <attvalue for="8" value="Вячеславовна" />
+          <attvalue for="9" value="1" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="27.0" />
+          <attvalue for="12" value="" />
+          <attvalue for="13" value="" />
+          <attvalue for="14" value="" />
+          <attvalue for="15" value="" />
+          <attvalue for="16" value="4" />
+          <attvalue for="17" value="0.0011528523156430135" />
+          <attvalue for="18" value="0.03076923076923077" />
+          <attvalue for="19" value="0.060695468914647" />
+        </attvalues>
+      </node>
+      <node id="1354343" label="1354343">
+        <attvalues>
+          <attvalue for="0" value="730" />
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="16.4" />
+          <attvalue for="3" value="id1354343" />
+          <attvalue for="4" value="Сергей" />
+          <attvalue for="5" value="114.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Чернышев" />
+          <attvalue for="8" value="Александрович" />
+          <attvalue for="9" value="2" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="0.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="university" />
+          <attvalue for="15" value="СПбГУАП" />
+          <attvalue for="16" value="4" />
+          <attvalue for="17" value="0.004651162790697674" />
+          <attvalue for="18" value="0.03076923076923077" />
+          <attvalue for="19" value="0.07639257294429709" />
+        </attvalues>
+      </node>
+      <node id="1510396" label="1510396">
+        <attvalues>
+          <attvalue for="0" value="8616" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="" />
+          <attvalue for="3" value="babenkooleg" />
+          <attvalue for="4" value="Олег" />
+          <attvalue for="5" value="4231.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Бабенко" />
+          <attvalue for="8" value="Олег Бабенко" />
+          <attvalue for="9" value="2" />
+          <attvalue for="10" value="http://www.mywed.com/photographer/obabenko/" />
+          <attvalue for="11" value="0.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="university" />
+          <attvalue for="15" value="ОГАУ" />
+          <attvalue for="16" value="4" />
+          <attvalue for="17" value="0.007871198568872988" />
+          <attvalue for="18" value="0.03076923076923077" />
+          <attvalue for="19" value="0.06923076923076923" />
+        </attvalues>
+      </node>
+      <node id="248719935" label="248719935">
+        <attvalues>
+          <attvalue for="0" value="6993" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12.2" />
+          <attvalue for="3" value="sveta_semizveta" />
+          <attvalue for="4" value="Sveta" />
+          <attvalue for="5" value="24.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Semizveta" />
+          <attvalue for="8" value="Sveta Semizveta" />
+          <attvalue for="9" value="1" />
+          <attvalue for="10" value="https://vk.com/sk_lash_sugar наращивание ресниц,шугаринг  https://vk.com/skshop35 продажа материалов " />
+          <attvalue for="11" value="0.0" />
+          <attvalue for="12" value="Вологда" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="work" />
+          <attvalue for="15" value="Наращивание ресниц, Шугаринг Вологда." />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="0.007692307692307693" />
+          <attvalue for="19" value="0.04343891402714933" />
+        </attvalues>
+      </node>
+      <node id="4098618" label="4098618">
+        <attvalues>
+          <attvalue for="0" value="552" />
+          <attvalue for="1" value="57" />
+          <attvalue for="2" value="26.10" />
+          <attvalue for="3" value="id4098618" />
+          <attvalue for="4" value="Ольга" />
+          <attvalue for="5" value="107.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Сенникова" />
+          <attvalue for="8" value="Ольга Сенникова" />
+          <attvalue for="9" value="1" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="0.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="" />
+          <attvalue for="15" value="" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="0.007692307692307693" />
+          <attvalue for="19" value="0.04343891402714933" />
+        </attvalues>
+      </node>
+      <node id="113429963" label="113429963">
+        <attvalues>
+          <attvalue for="0" value="482" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="4.1" />
+          <attvalue for="3" value="max.winner" />
+          <attvalue for="4" value="Максим" />
+          <attvalue for="5" value="195.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Винер" />
+          <attvalue for="8" value="Максим Винер" />
+          <attvalue for="9" value="2" />
+          <attvalue for="10" value="http://vk.com/max.winner" />
+          <attvalue for="11" value="0.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="work" />
+          <attvalue for="15" value="РЕТРО ДИСКОТЕКА ПАПАНИН (ночной клуб, караоке)" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="0.007692307692307693" />
+          <attvalue for="19" value="0.039210347174948944" />
+        </attvalues>
+      </node>
+      <node id="60049676" label="60049676">
+        <attvalues>
+          <attvalue for="0" value="6287" />
+          <attvalue for="1" value="75" />
+          <attvalue for="2" value="" />
+          <attvalue for="3" value="alina_smirnova_94" />
+          <attvalue for="4" value="Алина" />
+          <attvalue for="5" value="1932.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Смирнова" />
+          <attvalue for="8" value="Алина Смирнова" />
+          <attvalue for="9" value="1" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="0.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="" />
+          <attvalue for="15" value="" />
+          <attvalue for="16" value="7" />
+          <attvalue for="17" value="0.02528324388789505" />
+          <attvalue for="18" value="0.05384615384615385" />
+          <attvalue for="19" value="0.09427168576104746" />
+        </attvalues>
+      </node>
+      <node id="270232145" label="270232145">
+        <attvalues>
+          <attvalue for="0" value="2066" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="13.10" />
+          <attvalue for="3" value="djvladspb" />
+          <attvalue for="4" value="Владислав" />
+          <attvalue for="5" value="104.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Иванович" />
+          <attvalue for="8" value="Владислав Иванович" />
+          <attvalue for="9" value="2" />
+          <attvalue for="10" value="https://vk.com/prodjvladspb" />
+          <attvalue for="11" value="0.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="" />
+          <attvalue for="15" value="" />
+          <attvalue for="16" value="2" />
+          <attvalue for="17" value="0.0027429934406678594" />
+          <attvalue for="18" value="0.015384615384615385" />
+          <attvalue for="19" value="0.06515837104072399" />
+        </attvalues>
+      </node>
+      <node id="11635271" label="11635271">
+        <attvalues>
+          <attvalue for="0" value="715" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="8.4.1992" />
+          <attvalue for="3" value="rozenbergnatalya" />
+          <attvalue for="4" value="Наталья" />
+          <attvalue for="5" value="369.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Розенберг" />
+          <attvalue for="8" value="Наталья Розенберг" />
+          <attvalue for="9" value="1" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="26.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="work" />
+          <attvalue for="15" value="студия красоты &quot; ай да GLAZKI&quot;" />
+          <attvalue for="16" value="4" />
+          <attvalue for="17" value="0.0026634863844166167" />
+          <attvalue for="18" value="0.03076923076923077" />
+          <attvalue for="19" value="0.06153846153846154" />
+        </attvalues>
+      </node>
+      <node id="1553846" label="1553846">
+        <attvalues>
+          <attvalue for="0" value="837" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="24.3.1990" />
+          <attvalue for="3" value="mir928" />
+          <attvalue for="4" value="Искандер" />
+          <attvalue for="5" value="332.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Миннуллин" />
+          <attvalue for="8" value="Искандер Миннуллин" />
+          <attvalue for="9" value="2" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="28.0" />
+          <attvalue for="12" value="Москва" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="work" />
+          <attvalue for="15" value="PR FUJIFILM Россия" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="0.007692307692307693" />
+          <attvalue for="19" value="0.05092838196286472" />
+        </attvalues>
+      </node>
+      <node id="6018583" label="6018583">
+        <attvalues>
+          <attvalue for="0" value="353" />
+          <attvalue for="1" value="299" />
+          <attvalue for="2" value="25.1" />
+          <attvalue for="3" value="id6018583" />
+          <attvalue for="4" value="Екатерина" />
+          <attvalue for="5" value="260.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Котова" />
+          <attvalue for="8" value="Екатерина Котова" />
+          <attvalue for="9" value="1" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="0.0" />
+          <attvalue for="12" value="Улан-Удэ" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="university" />
+          <attvalue for="15" value="БГУ (бывш. БГПИ, БФ НГУ)" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="0.007692307692307693" />
+          <attvalue for="19" value="0.05092838196286472" />
+        </attvalues>
+      </node>
+      <node id="170328081" label="170328081">
+        <attvalues>
+          <attvalue for="0" value="72" />
+          <attvalue for="1" value="47" />
+          <attvalue for="2" value="21.5" />
+          <attvalue for="3" value="ser170328081" />
+          <attvalue for="4" value="Степан" />
+          <attvalue for="5" value="292.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Гурьев" />
+          <attvalue for="8" value="Степан Гурьев" />
+          <attvalue for="9" value="2" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="0.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="" />
+          <attvalue for="15" value="" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="0.007692307692307693" />
+          <attvalue for="19" value="0.0632967032967033" />
+        </attvalues>
+      </node>
+      <node id="1566061" label="1566061">
+        <attvalues>
+          <attvalue for="0" value="304" />
+          <attvalue for="1" value="69" />
+          <attvalue for="2" value="28.12" />
+          <attvalue for="3" value="vkannett" />
+          <attvalue for="4" value="Annett" />
+          <attvalue for="5" value="128.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Глазкова" />
+          <attvalue for="8" value="Annett Глазкова" />
+          <attvalue for="9" value="1" />
+          <attvalue for="10" value="http://paulocoelhoblog.com/" />
+          <attvalue for="11" value="0.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="university" />
+          <attvalue for="15" value="СПбГУ" />
+          <attvalue for="16" value="2" />
+          <attvalue for="17" value="0.0027429934406678594" />
+          <attvalue for="18" value="0.015384615384615385" />
+          <attvalue for="19" value="0.056085686465433306" />
+        </attvalues>
+      </node>
+      <node id="54551367" label="54551367">
+        <attvalues>
+          <attvalue for="0" value="3786" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="28.2.1988" />
+          <attvalue for="3" value="lashes_spb_ru" />
+          <attvalue for="4" value="Анастасия" />
+          <attvalue for="5" value="2012.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Гривцова" />
+          <attvalue for="8" value="Анастасия Гривцова" />
+          <attvalue for="9" value="1" />
+          <attvalue for="10" value="http://vk.com/lashconsultant" />
+          <attvalue for="11" value="30.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="work" />
+          <attvalue for="15" value="НАРАЩИВАНИЕ ЛАМИНИРОВАНИЕ РЕСНИЦ СПБ |GREEN EYES" />
+          <attvalue for="16" value="2" />
+          <attvalue for="17" value="0.0027429934406678594" />
+          <attvalue for="18" value="0.015384615384615385" />
+          <attvalue for="19" value="0.056085686465433306" />
+        </attvalues>
+      </node>
+      <node id="43658304" label="43658304">
+        <attvalues>
+          <attvalue for="0" value="232" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="31.12" />
+          <attvalue for="3" value="id43658304" />
+          <attvalue for="4" value="Светлана" />
+          <attvalue for="5" value="358.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Эминова" />
+          <attvalue for="8" value="Светлана Эминова" />
+          <attvalue for="9" value="1" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="0.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="university" />
+          <attvalue for="15" value="МПСИ (ЖФ)" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="0.007692307692307693" />
+          <attvalue for="19" value="0.0547008547008547" />
+        </attvalues>
+      </node>
+      <node id="1559621" label="1559621">
+        <attvalues>
+          <attvalue for="0" value="1370" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="31.1" />
+          <attvalue for="3" value="id1559621" />
+          <attvalue for="4" value="Наталия" />
+          <attvalue for="5" value="440.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Потапенко" />
+          <attvalue for="8" value="Iva Nova" />
+          <attvalue for="9" value="1" />
+          <attvalue for="10" value="www.iva-nova.ru" />
+          <attvalue for="11" value="0.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="university" />
+          <attvalue for="15" value="СПбГК им. Римского-Корсакова" />
+          <attvalue for="16" value="2" />
+          <attvalue for="17" value="0.0027429934406678594" />
+          <attvalue for="18" value="0.015384615384615385" />
+          <attvalue for="19" value="0.056085686465433306" />
+        </attvalues>
+      </node>
+      <node id="12512548" label="12512548">
+        <attvalues>
+          <attvalue for="0" value="1440" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1.3" />
+          <attvalue for="3" value="dj_anna_sky" />
+          <attvalue for="4" value="Анна" />
+          <attvalue for="5" value="640.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Гершон" />
+          <attvalue for="8" value="Sky" />
+          <attvalue for="9" value="1" />
+          <attvalue for="10" value="http://vkontakte.ru/club_your_music#/club_your_music  http://promodj.com/djAnnaSky " />
+          <attvalue for="11" value="0.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="work" />
+          <attvalue for="15" value="https://vk.com/cosmikcare" />
+          <attvalue for="16" value="4" />
+          <attvalue for="17" value="0.014311270125223614" />
+          <attvalue for="18" value="0.03076923076923077" />
+          <attvalue for="19" value="0.07639257294429709" />
+        </attvalues>
+      </node>
+      <node id="2340937" label="2340937">
+        <attvalues>
+          <attvalue for="0" value="1253" />
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="24.9" />
+          <attvalue for="3" value="annazhgenty" />
+          <attvalue for="4" value="Анна" />
+          <attvalue for="5" value="221.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Жгенти" />
+          <attvalue for="8" value="Анна Жгенти" />
+          <attvalue for="9" value="1" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="0.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="work" />
+          <attvalue for="15" value="Aventy event-агентство" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="0.007692307692307693" />
+          <attvalue for="19" value="0.05092838196286472" />
+        </attvalues>
+      </node>
+      <node id="1142915" label="1142915">
+        <attvalues>
+          <attvalue for="0" value="1123" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="17.4.1925" />
+          <attvalue for="3" value="sobirinas" />
+          <attvalue for="4" value="Irina" />
+          <attvalue for="5" value="189.0" />
+          <attvalue for="6" value="1.0" />
+          <attvalue for="7" value="Soboleva" />
+          <attvalue for="8" value="Irina Soboleva" />
+          <attvalue for="9" value="1" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="93.0" />
+          <attvalue for="12" value="Санкт-Петербург" />
+          <attvalue for="13" value="Россия" />
+          <attvalue for="14" value="university" />
+          <attvalue for="15" value="СПбГИК (бывш. СПбГУКИ)" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="0.007692307692307693" />
+          <attvalue for="19" value="0.056085686465433306" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="23" source="350717" target="1320665" />
+      <edge id="5" source="350717" target="13513963" />
+      <edge id="17" source="350717" target="38030921" />
+      <edge id="18" source="1320665" target="38030921" />
+      <edge id="27" source="1320665" target="1354343" />
+      <edge id="50" source="1320665" target="60049676" />
+      <edge id="47" source="1320665" target="11635271" />
+      <edge id="49" source="1320665" target="1142915" />
+      <edge id="7" source="13513963" target="38030921" />
+      <edge id="3" source="13513963" target="113429963" />
+      <edge id="6" source="13513963" target="11635271" />
+      <edge id="85" source="1288637" target="270232145" />
+      <edge id="53" source="171292493" target="60049676" />
+      <edge id="76" source="191506200" target="1559621" />
+      <edge id="19" source="38030921" target="11635271" />
+      <edge id="30" source="1354343" target="60049676" />
+      <edge id="28" source="1354343" target="11635271" />
+      <edge id="29" source="1354343" target="43658304" />
+      <edge id="52" source="1510396" target="60049676" />
+      <edge id="61" source="1510396" target="1553846" />
+      <edge id="94" source="1510396" target="6018583" />
+      <edge id="74" source="1510396" target="2340937" />
+      <edge id="95" source="248719935" target="54551367" />
+      <edge id="13" source="4098618" target="1566061" />
+      <edge id="54" source="60049676" target="270232145" />
+      <edge id="21" source="60049676" target="170328081" />
+      <edge id="36" source="60049676" target="12512548" />
+      <edge id="25" source="1566061" target="12512548" />
+      <edge id="35" source="54551367" target="12512548" />
+      <edge id="34" source="1559621" target="12512548" />
+    </edges>
+  </graph>
+</gexf>
